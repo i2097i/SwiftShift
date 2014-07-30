@@ -34,6 +34,7 @@
 		04907302196C3DF200EBB906 /* SwiftShiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftShiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04907307196C3DF200EBB906 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04907308196C3DF200EBB906 /* SwiftShiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftShiftTests.swift; sourceTree = "<group>"; };
+		04907312196C3E3F00EBB906 /* SwiftShiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftShiftPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 			children = (
 				049072F5196C3DF200EBB906 /* AppDelegate.swift */,
 				049072F7196C3DF200EBB906 /* ViewController.swift */,
+				04907312196C3E3F00EBB906 /* SwiftShiftPlayground.playground */,
 				049072F9196C3DF200EBB906 /* Main.storyboard */,
 				049072FC196C3DF200EBB906 /* Images.xcassets */,
 				049072F3196C3DF200EBB906 /* Supporting Files */,
@@ -397,6 +399,7 @@
 				0490730E196C3DF200EBB906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0490730F196C3DF200EBB906 /* Build configuration list for PBXNativeTarget "SwiftShiftTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +408,7 @@
 				04907311196C3DF200EBB906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
